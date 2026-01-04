@@ -7,7 +7,6 @@
 - Products
 - Orders
 - Order_Items
-- Payments
 
 ### Relationships
 - A customer can place multiple orders
