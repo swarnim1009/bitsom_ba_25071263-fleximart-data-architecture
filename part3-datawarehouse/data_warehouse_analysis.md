@@ -66,3 +66,17 @@ GROUP BY c.customer_id, c.name
 ORDER BY total_spent DESC
 LIMIT 5;
 
+###Section D: Benefits of Data Warehouse for FlexiMart
+1.Enables fast analytical queries on large historical datasets.
+2.Star schema simplifies reporting and OLAP operations.
+3.Supports business decisions like:
+ -Identifying top-selling products
+ -Tracking customer purchase behavior
+ -Monitoring seasonal sales trends
+4.Improves performance by separating analytics from transactional systems.
+
+###Section E: Conclusion
+
+The data warehouse design using a star schema provides FlexiMart with an efficient analytical platform.
+It supports complex OLAP queries, improves reporting performance, and enables data-driven business decisions.
+This architecture is scalable and suitable for long-term strategic analysis.
